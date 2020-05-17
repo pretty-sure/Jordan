@@ -5,8 +5,13 @@ body {
   background-position: center; */
 }
 
+img {
+  width: 100%;
+}
+
 .container {
   text-align: center;
+  width: auto;
 
 }
 
